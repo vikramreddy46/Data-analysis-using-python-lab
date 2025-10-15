@@ -1,0 +1,4 @@
+KG_TO_POUNDS = 2.2
+kg = float(input("Enter weight in kilograms: "))
+pounds = kg * KG_TO_POUNDS
+print(f"{kg} kilograms is equal to {pounds:.2f} pounds.")
