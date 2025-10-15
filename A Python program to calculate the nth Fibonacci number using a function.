@@ -1,0 +1,5 @@
+def function_name(parameter):
+    if condition1:
+    elif condition2:
+    elif condition3:
+    else:
