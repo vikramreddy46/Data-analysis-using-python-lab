@@ -1,0 +1,4 @@
+import pandas as pd
+df = pd.DataFrame(data, index=labels)
+df.loc[row_index, 'column'] = new_value
+df['new_column'] = values
